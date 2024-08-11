@@ -1,2 +1,3 @@
 init main
 add main
+add member main
