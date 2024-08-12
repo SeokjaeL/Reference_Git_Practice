@@ -1,1 +1,2 @@
 init ftr1
+add ftr 1
